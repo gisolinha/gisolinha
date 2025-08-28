@@ -25,12 +25,17 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=gisolinha&show_icons=true&count_private=true&rank_icon=github&theme=onedark&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolinha&layout=compact&font=Iosevka&langs_count=16&theme=onedark"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gisolinha&theme=onedark"/>
+  <img width="400" align="center" alt="GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api/?username=gisolinha&show_icons=true&count_private=true&rank_icon=github&theme=onedark&font=Iosevka"/>
+  <img width="400" align="center" alt="Top Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolinha&layout=compact&font=Iosevka&langs_count=16&theme=onedark"/>
+  
+  <br><br>
+
+  <img align="center" alt="Top Language" 
+       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gisolinha&theme=onedark"/>
 </div>
+
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
