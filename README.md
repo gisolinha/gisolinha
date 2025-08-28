@@ -11,17 +11,6 @@
   </samp>
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gisolinha&show_icons=true&count_private=true&rank_icon=github&theme=onedark&font=Iosevka" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolinha&layout=compact&font=Iosevka&langs_count=16&theme=onedark" height="200"/>
-    </td>
-  </tr>
-</table>
-
 <br>
 <br>
       
