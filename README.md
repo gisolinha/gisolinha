@@ -1,29 +1,29 @@
-### Oi! Eu sou a Giulia, aluna do curso de Computação na UFCG 👋
-<div align="left">
-  <a href="https://github.com/gisolinha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gisolinha&theme=dracula&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Giu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Giu-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Giu-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Giu-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50;" 
-       src="https://i.gifer.com/origin/72/729b9c34d591753e02fed6837e3235e4.gif"
-">
-</div>
+# GIULIA
 
-##
-  
-<div> 
-  <a href="https://instagram.com/gigimest" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/leticcinha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href ="giulia.aragao@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giulia-leticia-de-mesquita-aragao-146621254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+GAME DEVELOPER | GAME DESIGNER | PROGRAMMER | UI/UX
 
-   
+---
 
+## STACK ATUAL
 
+![JAVA](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=9b59b6)
+![TAILWIND](https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![VUE](https://img.shields.io/badge/VUE-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+---
+
+## STATS
+
+![COMMITS](https://github-readme-streak-stats.herokuapp.com/?user=gisolinha&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+
+![STATS](https://github-readme-stats.vercel.app/api?username=gisolinha&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+
+---
+
+## SOBRE
+
+ESTUDANTE DE JOGOS DIGITAIS.  
+DESENVOLVENDO SKILLS PARA GAME DEV, DESIGN E PROGRAMAÇÃO.  
