@@ -20,19 +20,17 @@
 <div align="center">
   <img src="https://img.shields.io/badge/giso_♡-white" />
 </div>
+
 <br>
 <br>
       
+      
 <div align="center">
-  <img width="400" align="center" alt="GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api/?username=gisolinha&show_icons=true&count_private=true&rank_icon=github&theme=onedark&font=Iosevka"/>
-  <img width="400" align="center" alt="Top Languages" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolinha&layout=compact&font=Iosevka&langs_count=16&theme=onedark"/>
-  
-  <br><br>
-
-  <img align="center" alt="Top Language" 
-       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gisolinha&theme=onedark"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=gisolinha&show_icons=true&count_private=true&rank_icon=github&theme=onedark&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=onedark"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gisolinha&theme=onedark"/>
 </div>
 
 
