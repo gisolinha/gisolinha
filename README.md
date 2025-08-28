@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/giso_♡-black" />
 </div>
       
 <br>
