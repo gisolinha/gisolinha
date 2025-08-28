@@ -25,5 +25,5 @@ game developer && designer · programmer · ui/ux
 
 ## about
 
-estudante de jogos digitais.  
+estudante de jogos digitais e computação.
 criando experiências em desenvolvimento de jogos, design e programação.  
