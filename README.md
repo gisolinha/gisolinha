@@ -77,7 +77,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:giulia.aragao@maisunifacisa.com.br)
+  [![Gmail](https://img.shields.io/badge/Gmail-FF91AF?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:giulia.aragao@maisunifacisa.com.br)
   [![Instagram](https://img.shields.io/badge/Instagram-194d45?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/gigimest/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-194d45?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/PPsxfuv9)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-194d45?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/devsgiulia/)
