@@ -11,16 +11,17 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF91AF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Digital+Games+and+Computer+Science;I'm+also+a+UI/UX+Designer;Be+welcome!" alt="Typing SVG"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gisolinha&show_icons=true&count_private=true&rank_icon=github&theme=onedark&font=Iosevka" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisolinha&layout=compact&font=Iosevka&langs_count=16&theme=onedark" height="200"/>
+    </td>
+  </tr>
+</table>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/giso_♡-white" />
-</div>
-      
 <br>
 <br>
       
