@@ -21,9 +21,3 @@ GAME DEVELOPER | GAME DESIGNER | PROGRAMMER | UI/UX
 
 ![STATS](https://github-readme-stats.vercel.app/api?username=gisolinha&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
----
-
-## SOBRE
-
-ESTUDANTE DE JOGOS DIGITAIS.  
-DESENVOLVENDO SKILLS PARA GAME DEV, DESIGN E PROGRAMAÇÃO.  
